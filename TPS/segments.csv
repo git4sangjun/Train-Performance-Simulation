@@ -1,0 +1,8 @@
+length,gradient,curve_radius,station_name,stop_time
+3000,1.5,500,,0
+2000,-1,800,stationA,30
+4000,0.5,600,,0
+3000,1.2,700,stationB,30
+2000,1.2,700,,0
+3000,3.2,900,,0
+1500,1.2,700,stationC,30
